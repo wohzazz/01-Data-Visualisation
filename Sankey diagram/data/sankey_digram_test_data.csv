@@ -1,0 +1,12 @@
+lvl1,lvl2_event,lvl2_num_perc,lvl2_display,lvl3,lvl4,MyEDB,count
+OpenTran 202010,MyEDB month 0,"10 customers, (10%)","MyEDB month 0 : 10 customers, (10%)",salary credit ,happy,MyEDB August,5
+OpenTran 202010,MyEDB month 0,"5 customers, (5%)","MyEDB month 0 : 5 customers, (5%)",non sc,happy,MyEDB August,2
+OpenTran 202010,MyEDB month 0,"10 customers, (10%)","MyEDB month 0 : 10 customers, (10%)",salary credit ,happy,not MyEDB August,3
+OpenTran 202010,MyEDB month 0,"10 customers, (10%)","MyEDB month 0 : 10 customers, (10%)",non sc,happy,not MyEDB August,8
+OpenTran 202010,MyEDB month 1,"10 customers, (10%)","MyEDB month 1 : 10 customers, (10%)",salary credit ,happy,MyEDB August,2
+OpenTran 202010,non sc,"10 customers, (10%)","non sc : 10 customers, (10%)",MyEDB month 0,happy,MyEDB August,4
+OpenTran 202010,salary credit ,"10 customers, (10%)","salary credit  : 10 customers, (10%)",MyEDB month 0,happy,MyEDB August,1
+OpenTran 202010,non sc,"10 customers, (10%)","non sc : 10 customers, (10%)",MyEDB month 1,happy,MyEDB August,3
+OpenTran 202010,not myedb,"10 customers, (10%)","not myedb : 10 customers, (10%)",,,,4
+OpenTran 202010,not myedb,"10 customers, (10%)","not myedb : 10 customers, (10%)",,,,6
+OpenTran 202010,not myedb,"10 customers, (10%)","not myedb : 10 customers, (10%)",,,,3

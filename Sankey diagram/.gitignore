@@ -1,3 +1,6 @@
 # data files 
 
 *.csv
+
+# output html files
+*.html
